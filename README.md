@@ -1,3 +1,6 @@
+ # Shaunda Atkins SQL Portfolio
+ ## Welcome to my SQL portfolio! This code repository includes all the code I have written. Please feel free to take a glance and reach out to me via email if you have any questions: satkins619@gmail.com
+
 CREATE TABLE STORE (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, price INTEGER, sold INTEGER);
 
 INSERT INTO store VALUES (1, 'Oversized Tunic Sweatshirt for Women', 14, 35.99, 7);
